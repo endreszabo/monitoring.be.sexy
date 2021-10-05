@@ -1,0 +1,6 @@
+[submodule "wiki"]
+	path = github/wiki
+	url = https://github.com/endreszabo/monitoring.be.sexy.wiki.git
+[submodule "users/endre"]
+	path = users/endre
+	url = git@github.com:endreszabo/monitoring.be.sexy-endre.git
